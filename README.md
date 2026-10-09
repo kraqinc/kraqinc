@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kraqinc/main/profile-banner.svg" alt="kraqinc — software and AI development" width="100%">
+  <img src="https://raw.githubusercontent.com/kraqinc/kraqinc/main/profile-banner.svg"  alt="kraqinc — software and AI development" width="100%">
 </p>
 
 <h1 align="center">Hey, I'm kraqinc.</h1>
